@@ -21,3 +21,6 @@ Ajuste de hiperparámetros (número de filtros, tamaño de kernel, tasa de apren
 Uso de imágenes de mayor resolución para mejorar la detección de características finas.
 
 NOTA: Cambiar los archivos del código por los datasets del Github
+
+link para los dataset completos:
+https://bit.ly/ImgClsKeras
