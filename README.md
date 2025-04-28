@@ -19,3 +19,5 @@ Ampliar el conjunto de datos para incluir mayor diversidad de razas.
 Ajuste de hiperparámetros (número de filtros, tamaño de kernel, tasa de aprendizaje).
 
 Uso de imágenes de mayor resolución para mejorar la detección de características finas.
+
+NOTA: Cambiar los archivos del código por los datasets del Github
